@@ -28,11 +28,11 @@ void HandlingSSL::ConfigureContext(SSL_CTX *ctx) {
         ERR_print_errors_fp(stderr);
         abort();
     }
-    if (SSL_CTX_use_certificate_file(ctx, "/home/ignorant05/cert.pem", SSL_FILETYPE_PEM) < 0) {
+    if (SSL_CTX_use_certificate_file(ctx, "/required/cert.pem", SSL_FILETYPE_PEM) < 0) {
         ERR_print_errors_fp(stderr);
         abort();
     }
-    if (SSL_CTX_use_PrivateKey_file(ctx, "/home/ignorant05/key.pem", SSL_FILETYPE_PEM) < 0) {
+    if (SSL_CTX_use_PrivateKey_file(ctx, "/required/key.pem", SSL_FILETYPE_PEM) < 0) {
         ERR_print_errors_fp(stderr);
         abort();
     }
