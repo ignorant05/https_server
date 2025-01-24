@@ -1,0 +1,25 @@
+# ninja log v6
+4	693	1737643723863571735	CMakeFiles/http_server.dir/src/HandlingReq_ProvidingResp.cpp.o	796fecf466f3550d
+3	404	1737643723862571765	CMakeFiles/http_server.dir/main.cpp.o	3b5e033af4947b6b
+3	145	1737643723862571765	CMakeFiles/http_server.dir/src/HandlingSSL.cpp.o	3555774ed073445a
+1	52	1737662677758085734	build.ninja	3de9ab49ef527b72
+1	382	1737644267303664330	CMakeFiles/https_server.dir/main.cpp.o	df636e109d87b758
+120	258	1737645629266327307	https_server	c54a94ae11d48855
+1	120	1737645629147328582	CMakeFiles/https_server.dir/src/HandlingSSL.cpp.o	ff9ea9e485cbfae0
+1	746	1737643845167230299	CMakeFiles/https_server.dir/src/HandlingReq_ProvidingResp.cpp.o	19403d26991bdd22
+1	187	1737663236272055372	CMakeFiles/https_server.dir/src/HandlingSSL.cpp.o	ff9ea9e485cbfae0
+187	364	1737663236458056160	https_server	c54a94ae11d48855
+1	202	1737663927034723779	CMakeFiles/https_server.dir/src/HandlingSSL.cpp.o	ff9ea9e485cbfae0
+202	322	1737663927235744897	https_server	c54a94ae11d48855
+3	702	1737664287832215979	CMakeFiles/https_server.dir/src/HandlingReq_ProvidingResp.cpp.o	19403d26991bdd22
+702	834	1737664288531269141	https_server	c54a94ae11d48855
+1	859	1737664591356124818	CMakeFiles/https_server.dir/src/HandlingReq_ProvidingResp.cpp.o	19403d26991bdd22
+859	993	1737664592213184429	https_server	c54a94ae11d48855
+1	742	1737664844779487782	CMakeFiles/https_server.dir/src/HandlingReq_ProvidingResp.cpp.o	19403d26991bdd22
+742	854	1737664845520537996	https_server	c54a94ae11d48855
+1	130	1737665132842885483	CMakeFiles/https_server.dir/src/HandlingSSL.cpp.o	ff9ea9e485cbfae0
+130	243	1737665132971894133	https_server	c54a94ae11d48855
+2	128	1737665568848046582	CMakeFiles/https_server.dir/src/HandlingSSL.cpp.o	ff9ea9e485cbfae0
+128	266	1737665568973839523	https_server	c54a94ae11d48855
+2	198	1737665585409367926	CMakeFiles/https_server.dir/src/HandlingSSL.cpp.o	ff9ea9e485cbfae0
+198	347	1737665585605195123	https_server	c54a94ae11d48855

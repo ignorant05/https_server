@@ -1,0 +1,7 @@
+/home/ignorant05/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/ignorant05/.local/share/JetBrains/Toolbox/apps/clion/bin/ninja/linux/x64/ninja -G Ninja -S /home/ignorant05/CLionProjects/https_server -B /home/ignorant05/CLionProjects/https_server/cmake-build-debug
+-- OpenSSL found: 3.0.13
+-- OpenSSL include dir: /usr/include
+-- OpenSSL libraries: /usr/lib/x86_64-linux-gnu/libssl.so;/usr/lib/x86_64-linux-gnu/libcrypto.so
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/ignorant05/CLionProjects/https_server/cmake-build-debug
